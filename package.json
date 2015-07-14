@@ -1,0 +1,40 @@
+{
+  "name": "react-gulp-baobab-init",
+  "version": "1.0.0",
+  "description": "A React, Gulp, Baobab Starter project",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter list"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eyeamaman/react-gulp-baobab-init.git"
+  },
+  "keywords": [
+    "Gulp",
+    "React",
+    "Baobab",
+    "Project init",
+    "es6",
+    "ecmascript6",
+    "javascript"
+  ],
+  "author": "eyeamaman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eyeamaman/react-gulp-baobab-init/issues"
+  },
+  "homepage": "https://github.com/eyeamaman/react-gulp-baobab-init",
+  "dependencies": {
+    "baobab": "^1.1.2",
+    "react": "^0.13.3"
+  },
+  "devDependencies": {
+    "babel": "^5.6.14",
+    "babelify": "^6.1.3",
+    "chai": "^3.0.0",
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-webserver": "^0.9.1"
+  }
+}
